@@ -1,0 +1,4 @@
+What this code doing:
+1) Read data from CSV file from directory.
+2) Doing calculation based on company whoes providing some goods or smth like that.
+3) Write new recalculated data to CSV file.
